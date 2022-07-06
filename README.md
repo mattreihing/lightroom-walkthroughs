@@ -4,6 +4,9 @@ This repo is a collection of introductorty guides for using Adobe Lightroom (202
 If you've taken the time to read this and gone so far to open this file--wow, thank you.
 
 
+
+
+
  ,-.       _,---._ __  / \
  /  )    .-'       `./ /   \
 (  (   ,'            `/    /|
