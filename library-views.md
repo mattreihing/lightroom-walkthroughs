@@ -1,4 +1,4 @@
-# Viewing Photos in Your Library
+# Viewing Photos In Your Library
 
 This article covers the different ways to view and sort photos in your Lightroom library.
 
@@ -10,7 +10,7 @@ There are 4 different ways to view your photo gallery in Lightroom. I recommend 
 
 The Photo Grid is the default gallery view in Lightroom. In this view, all photos are evenly spaced on the screen with a thin border around them. This view is helpful for viewing your photos all at once in a semi-detailed way.
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/1-lib-nav-photo-grid.png)
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/1-lib-nav-photo-grid.png)
 
 > *You can switch between the Photo Grid and the Square Grid by pressing the `G` key.*
 
@@ -18,7 +18,7 @@ The Photo Grid is the default gallery view in Lightroom. In this view, all photo
 
 The Square Grid displays your photos at a smaller size but shows Flagging and Rating metadata for below each photo. This makes it easier to view your library, your ratings, and flagged photos at a glance.
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/2-lib-nav-square-grid.png)
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/2-lib-nav-square-grid.png)
 
 > *You can switch between the Photo Grid and the Square Grid by pressing the `G` key.*
 
@@ -28,19 +28,19 @@ The Compare view is used to compare two photos in your library. This is helpful 
 
 If you access the Compare view when you have a photo already selected, you will see it in the left position of this view. If you acccess the Compare view without having a photo selected, follow the directions below to select the photos you want to compare.
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/3-lib-nav-compare-1.png)
+1. Click on any photo in the filmstrip at the bottom of the screen to add it to the left space.
 
-Click on any photo in your library to add it to the left space.
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/3-lib-nav-compare-1.png)
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/3-lib-nav-compare-2.png)
+2. Click on another photo to add it to the right space.
 
-Click on any other photo to add it to the right space.
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/3-lib-nav-compare-2.png)
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/3-lib-nav-compare-3.png)
+3. Now you can compare your photos.
 
-Now you can compare your photos.
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/3-lib-nav-compare-3.png)
 
-To change which photos are in this view, select either the right or left photo being compared by clicking it. Then click the photo you want to take its place in the filmstrip at the bottom of the screen.
+To change which photos are being compared, select either the right or left photo being compared by clicking it. Then click the photo you want to take its place in the filmstrip at the bottom of the screen.
 
 > *You can access the Compare view by pressing `Option + C (MacOS) or Alt + C (Windows)` on your keyboard.*
 
@@ -48,7 +48,7 @@ To change which photos are in this view, select either the right or left photo b
 
 In the Detail view, you can view one photo up close. This is best for editing the photo or examining specific elements in a photo.
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/4-lib-nav-detail.png)
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/4-lib-nav-detail.png)
 
 > *You can access the Detail view for any photo by double-clicking it or pressing the `D` key.*
 
@@ -60,13 +60,13 @@ In addition to the different view options, you can also adjust the size of the p
 
 If you want to view your photos at a larger or smaller size, use the slider in the lower-right corner of the window to adjust the size of the photos in your library.
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/gifs/6-lib-nav-size-slider.gif)
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/6-lib-nav-size-slider.gif)
 
 ### Sorting Menu
 
 Clicking on the menu to the right of the "Detail" view option will give you options for how to sort your library. 
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/5-lib-nav-sorting-menu-edited.png)
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/5-lib-nav-sorting-menu-edited.png)
 
 The options for sorting include:
 
@@ -81,7 +81,7 @@ The options for sorting include:
 
 Clicking the "I" icon in the lower-right corner of the screen will pull up the Info sidebar on the right side of the screen. This sidebar shows background information, called _**metadata**_, associated with your photo. This data is recorded by your digital camera when the photo is taken. 
 
-![](/Users/matt-r/Desktop/lightroom-walkthroughs/1-navigating-lightroom/screenshots/7-lib-nav-info.png)
+![](https://github.com/mattreihing/lightroom-walkthroughs/blob/main/7-lib-nav-info.png)
 
 Lightroom displays data such as the settings used when taking the photo, the file name, and when the photo was taken. You can also add information related to the photo's title, caption, copyright, and location in the Info sidebar. 
 
